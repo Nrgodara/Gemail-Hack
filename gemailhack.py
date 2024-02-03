@@ -6,14 +6,14 @@ from os import system
 
 def main():
    print '================================================='
-   print '               create by Ha3MrX                  '
+   print '               created By  🅜🅐🅗🅘®👿                 '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
    print '  _,.                                            '
    print '                                                 '
    print '                                                 '
-   print '           HA3MrX                                '
+   print '           🅜🅐🅗🅘®👿                                '
    print '       _,.                   '
    print '     ,` -.)                  '
    print '    ( _/-\\-._               '
@@ -24,11 +24,11 @@ def main():
    print '      `r-._||/   __   /  /   '
    print '  __,-<_     )`-/  `./  /    '
    print '  \   `---    \   / /  /     '
-   print '     |           |./  /      '
-   print '     /           //  /       '
-   print ' \_/  \         |/  /        '
-   print '  |    |   _,^- /  /         '
-   print '  |    , ``  (\/  /_         '
+   print '     |   🅜      |./  /      '
+   print '     /   ❤️‍🔥    //  /       '
+   print ' \_/  \  🅐     |/  /        '
+   print '  |    | 🅗_,^- /  /         '
+   print '  |    , 🅘  (\/  /_         '
    print '   \,.->._    \X-=/^         '
    print '   (  /   `-._//^`           '
    print '    `Y-.____(__}             '
@@ -36,7 +36,7 @@ def main():
    print '           ()   V.1.0        '
 
 main()
-print '[1] start the attack'
+print '[1] start the attack, all Thanks to MAHI® Boss'
 print '[2] exit'
 option = input('==>')
 if option == 1:
